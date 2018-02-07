@@ -1,7 +1,7 @@
-# ConwayGameOfLife
+# ConwayGameOfLife 
+# By Gia Cao, Shuva Chowdhury
 
   Conway's Game Of Life using implementation of Table
-  
   Coded in HTML, CSS, and JavaScript
   
   - This is a cell animation game where each cell is the state of being alive or dead. 
@@ -18,7 +18,7 @@
     - Any dead cell with exactly three live neighbours becomes a live cell.
     
 # Demonstration
-    A demo of the game can be found [here](http://codd.cs.gsu.edu/~schowdhury13/).
+    A demo of the game can be accessed here http://codd.cs.gsu.edu/~gcao1/.
     
     Have FUN!!!
     
